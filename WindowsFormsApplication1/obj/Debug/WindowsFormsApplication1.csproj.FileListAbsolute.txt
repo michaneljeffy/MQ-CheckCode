@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

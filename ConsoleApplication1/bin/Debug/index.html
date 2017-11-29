@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>免费打印中心</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no, email=no">
+    
+	
+    <script>
+        ;(function(win, doc) {
+            var UA = navigator.userAgent,
+                isAndroid = /android|adr/gi.test(UA),
+                isIos = /iphone|ipod|ipad/gi.test(UA) && !isAndroid;
+            var docEl = doc.documentElement;
+            var refreshRem = function() {
+                    var w = document.documentElement.clientWidth || 375;
+                    var fs = w / 375 * 20;
+                    fs = fs > 40 ? 40 : fs;
+
+                    docEl.style.fontSize = fs + 'px';
+                },
+                refreshRemId;
+            win.addEventListener('resize', function() {
+                clearTimeout(refreshRemId);
+                refreshRemId = setTimeout(refreshRem, 100);
+            }, false);
+            win.addEventListener('pageshow', function(e) {
+                if (e.persisted) {
+                    clearTimeout(refreshRemId);
+                    refreshRemId = setTimeout(refreshRem, 100);
+                }
+            }, false);
+            refreshRem();
+        })(window, document);
+    </script>
+<link rel="stylesheet" href="https://box.in66.co/screenshows/css/index-044d14bd53.css"></head>
+<body>
+    <div class="wrapper">
+        <div id="top" class="container swiper-container"> 
+            <div class="swiper-wrapper">  
+                <!-- <div class="swiper-slide">
+                    <div class="item">
+                        <img controls src="http://ofyhp5vzv.bkt.clouddn.com/images/20161129/583d30cbd7ae4.jpg">
+                    </div>
+                </div><div class="swiper-slide">
+                    <div class="item">
+                        <img controls src="http://ofyhp5vzv.bkt.clouddn.com/images/20161129/583d30cbd7ae4.jpg">
+                    </div>
+                </div><div class="swiper-slide">
+                    <div class="item">
+                        <img controls src="http://ofyhp5vzv.bkt.clouddn.com/images/20161129/583d30cbd7ae4.jpg">
+                    </div>
+                </div> -->
+            </div>
+        </div>
+        <div id="bottom" class="container swiper-container"> 
+            <div class="swiper-wrapper">  
+                <div class="swiper-slide">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- <iframe src="http://www.swiper.com.cn/demo/index.html" width="100%" height="1440" frameborder="0"></iframe> -->
+    
+    
+    
+<script src="https://box.in66.co/screenshows/js/index-6a0bcd8339.js"></script></body>
+</html>
+		
